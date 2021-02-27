@@ -1,0 +1,314 @@
+/* screen - desktop */
+
+.border-1px-mountain-mist {
+  border: 1px solid var(--mountain-mist);
+}
+.desktop {
+  background-color: var(--white);
+  height: 1024px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1024px;
+}
+.desktop .bitmap-KOsP6k {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 80px;
+}
+.desktop .bitmap-hvAGCq {
+  background-color: transparent;
+  background-image: url(../img/desktop-bitmap-B0455D91-4689-4BA1-848E-4880BEBDBDB6@2x.png);
+  background-size: 100% 100%;
+  height: 65px;
+  left: 7px;
+  position: relative;
+  top: 7px;
+  width: 64px;
+}
+.desktop .bitmap-w0VTxG {
+  background-color: transparent;
+  background-image: url(../img/desktop-bitmap-AC448614-D00F-4612-B053-17D8F13DAD5E@2x.png);
+  background-size: 100% 100%;
+  height: 65px;
+  left: 7px;
+  position: relative;
+  top: 7px;
+  width: 64px;
+}
+.desktop .blog-C61RwL {
+  background-color: transparent;
+  font-weight: 300;
+  height: auto;
+  left: 785px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: 476px;
+  white-space: nowrap;
+  width: auto;
+}
+.desktop .computer-science-stu-C61RwL {
+  background-color: transparent;
+  font-weight: 300;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 191px;
+  white-space: nowrap;
+  width: auto;
+}
+.desktop .experience-C61RwL {
+  background-color: transparent;
+  font-weight: 300;
+  height: auto;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: 476px;
+  white-space: nowrap;
+  width: auto;
+}
+.desktop .fill-10-PIEh7b {
+  background-color: transparent;
+  height: 1px;
+  left: 13px;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+.desktop .fill-11-PIEh7b {
+  background-color: transparent;
+  height: 1px;
+  left: 15px;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+.desktop .fill-12-PIEh7b {
+  background-color: transparent;
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+.desktop .fill-5-PIEh7b {
+  background-color: transparent;
+  height: 45px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 46px;
+}
+.desktop .fill-6-PIEh7b {
+  background-color: transparent;
+  height: 1px;
+  left: 9px;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+.desktop .fill-7-PIEh7b {
+  background-color: transparent;
+  height: 1px;
+  left: 10px;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+.desktop .fill-8-PIEh7b {
+  background-color: transparent;
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+.desktop .fill-9-PIEh7b {
+  background-color: transparent;
+  height: 1px;
+  left: 12px;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+.desktop .group-2-C61RwL {
+  background-color: transparent;
+  height: 80px;
+  left: 311px;
+  position: absolute;
+  top: 260px;
+  width: 80px;
+}
+.desktop .group-3-C61RwL {
+  background-color: transparent;
+  border-radius: 8px;
+  height: 80px;
+  left: 441px;
+  position: absolute;
+  top: 260px;
+  width: 80px;
+}
+.desktop .group-3-VMr6Om {
+  background-color: transparent;
+  border-radius: 8px;
+  height: 80px;
+  left: 51px;
+  position: absolute;
+  top: 260px;
+  width: 80px;
+}
+.desktop .group-4-C61RwL {
+  background-color: transparent;
+  height: 80px;
+  left: 181px;
+  position: absolute;
+  top: 260px;
+  width: 80px;
+}
+.desktop .group-5-C61RwL {
+  background-color: var(--gulf-stream);
+  border-radius: 219px;
+  height: 219px;
+  left: 725px;
+  position: absolute;
+  top: 99px;
+  width: 219px;
+}
+.desktop .group-6-C61RwL {
+  background-color: transparent;
+  height: 46px;
+  left: 725px;
+  position: absolute;
+  top: 336px;
+  width: 47px;
+}
+.desktop .group-iZjIT4 {
+  background-color: transparent;
+  background-image: url(../img/desktop-group-26B264C8-C6EF-451E-A80B-56B6011F56D6@2x.png);
+  background-size: 100% 100%;
+  height: 212px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 212px;
+}
+.desktop .projects-C61RwL {
+  background-color: transparent;
+  font-weight: 300;
+  height: auto;
+  left: 454px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: 476px;
+  white-space: nowrap;
+  width: auto;
+}
+.desktop .rectangle-KOsP6k {
+  background-color: transparent;
+  border-radius: 8px;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.desktop .rectangle-zUixHA {
+  background-color: transparent;
+  border-radius: 8px;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.desktop .samuel-kahessay-C61RwL {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 72px;
+  position: absolute;
+  text-align: left;
+  top: 114px;
+  white-space: nowrap;
+  width: auto;
+}
+.desktop .screen-shot-202-26-at-114110-am-zUixHA {
+  background-color: transparent;
+  height: 35px;
+  left: 6px;
+  position: absolute;
+  top: 22px;
+  width: 68px;
+}
+.desktop .screen-shot-202-26-at-115227-am-C61RwL {
+  background-color: transparent;
+  height: 48px;
+  left: 811px;
+  position: absolute;
+  top: 336px;
+  width: 47px;
+}
+.desktop .spotify-logocmyk-black-C61RwL {
+  background-color: transparent;
+  height: 48px;
+  left: 897px;
+  position: absolute;
+  top: 336px;
+  width: 48px;
+}
+.newsreader-italic-normal-san-juan-30px {
+  color: var(--san-juan);
+  font-family: "Newsreader-Italic", Helvetica, Arial, serif;
+  font-size: 30px;
+}
+.newsreader16pt-regular-normal-san-juan-30px {
+  color: var(--san-juan);
+  font-family: "Newsreader16pt-Regular", Helvetica, Arial, serif;
+  font-size: 30px;
+}
+.newsreader16pt-regular-normal-san-juan-72px {
+  color: var(--san-juan);
+  font-family: "Newsreader16pt-Regular", Helvetica, Arial, serif;
+  font-size: 72px;
+}
+.roboto-light-san-juan-30px {
+  color: var(--san-juan);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 300;
+}
+.roboto-light-san-juan-45px {
+  color: var(--san-juan);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 300;
+}
+.roboto-normal-san-juan-17px {
+  color: var(--san-juan);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --gulf-stream: rgba(127,168,177,1.0);
+  --mountain-mist: rgba(150,150,150,1.0);
+  --san-juan: rgba(56,76,100,1.0);
+  --white: rgba(255,255,255,1.0);
+}

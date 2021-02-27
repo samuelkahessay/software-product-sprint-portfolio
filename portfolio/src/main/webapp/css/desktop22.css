@@ -1,0 +1,93 @@
+/* screen - desktop22 */
+
+.border-1px-mountain-mist {
+  border: 1px solid var(--mountain-mist);
+}
+.desktop22 {
+  background-color: var(--white);
+  height: 856px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1024px;
+}
+.desktop22 .blog-C61RwL {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 72px;
+  position: absolute;
+  text-align: left;
+  top: 119px;
+  white-space: nowrap;
+  width: auto;
+}
+.desktop22 .feb-26-2021-C61RwL {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 762px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 247px;
+  white-space: nowrap;
+  width: auto;
+}
+.desktop22 .infinite-and-finite-C61RwL {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 247px;
+  white-space: nowrap;
+  width: auto;
+}
+.newsreader-italic-normal-san-juan-30px {
+  color: var(--san-juan);
+  font-family: "Newsreader-Italic", Helvetica, Arial, serif;
+  font-size: 30px;
+}
+.newsreader16pt-regular-normal-san-juan-30px {
+  color: var(--san-juan);
+  font-family: "Newsreader16pt-Regular", Helvetica, Arial, serif;
+  font-size: 30px;
+}
+.newsreader16pt-regular-normal-san-juan-72px {
+  color: var(--san-juan);
+  font-family: "Newsreader16pt-Regular", Helvetica, Arial, serif;
+  font-size: 72px;
+}
+.roboto-light-san-juan-30px {
+  color: var(--san-juan);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 300;
+}
+.roboto-light-san-juan-45px {
+  color: var(--san-juan);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 300;
+}
+.roboto-normal-san-juan-17px {
+  color: var(--san-juan);
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --gulf-stream: rgba(127,168,177,1.0);
+  --mountain-mist: rgba(150,150,150,1.0);
+  --san-juan: rgba(56,76,100,1.0);
+  --white: rgba(255,255,255,1.0);
+}
