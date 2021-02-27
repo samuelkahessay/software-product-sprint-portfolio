@@ -1,4 +1,7 @@
 /* screen - desktophd */
+* {
+    overflow-y: hidden;
+}
 
 .border-1px-mountain-mist {
   border: 1px solid var(--mountain-mist);
