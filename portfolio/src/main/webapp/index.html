@@ -6,6 +6,10 @@
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="photo" />
     <link rel="stylesheet" type="text/css" href="css/desktop.css" />
+    
+    <!-- Week 2 Servlet Fetch File-->
+    <script src="script.js"></script>
+
     <title>My Portfolio</title>
     <style>
       @import url("https://fonts.googleapis.com/css?family=Roboto:300italic,300,400");
@@ -263,7 +267,19 @@
         <a href="experiences.html"><div class="experience-C61RwL roboto-light-san-juan-45px">Experience</div></a>
         <a href="projects.html"><div class="projects-C61RwL roboto-light-san-juan-45px">Projects</div></a>
         <a href="blog.html"><div class="blog-C61RwL roboto-light-san-juan-45px">Blog</div></a>
+
+
+
       </div>
     </div>
+    <div style="display:block;">
+    <!-- Week 2 Servlet Fetch Command -->
+        <p>Click this button to get a message</p>
+        <button onClick="showMessage();">Get message</button>
+        <p id="message-container"></p>
+        <p>Click <a href="/hello">here</a> to see the server response directly.</p>
+    
+    </div>
+
   </body>
 </html>

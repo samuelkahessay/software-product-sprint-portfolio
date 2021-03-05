@@ -13,8 +13,7 @@ public class HelloWorldServlet extends HttpServlet {
   @Override
   public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
     response.setContentType("text/html;");
-    response.getWriter().println("<h1>hello world!</h1>");
-    response.getWriter().println("<h1>this message is coming from the java servlet and can be accessed at \"&#47; hello\" </h1>");
+    response.getWriter().println("this message is coming from the java servlet and can be accessed at \"\\hello\"");
 
   }
 }

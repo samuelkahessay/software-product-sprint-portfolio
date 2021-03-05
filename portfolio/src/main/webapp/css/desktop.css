@@ -9,7 +9,7 @@
 }
 .desktop {
   background-color: var(--white);
-  height: 1024px;
+  height: 550px; /* change for display height */
   overflow-x: hidden;
   position: relative;
   width: 1024px;
