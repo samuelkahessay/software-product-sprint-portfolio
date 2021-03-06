@@ -44,7 +44,7 @@
 
       * {
           overflow-x: hidden;
-          overflow-y: hidden;
+          /* overflow-y: hidden; */
       }
 
       .full-height-a {
@@ -278,7 +278,16 @@
         <button onClick="showMessage();">Get message</button>
         <p id="message-container"></p>
         <p>Click <a href="/hello">here</a> to see the server response directly.</p>
+
     
+    <form action="/form-handler" method="POST">
+        <p>Tell me your favourite album!</p>
+        <textarea name="text-input">Enter your favourite album here</textarea>
+        <br/>
+        <input type="submit" />
+    </form>
+
+
     </div>
 
   </body>
